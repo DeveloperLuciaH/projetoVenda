@@ -1,9 +1,9 @@
-# projetoVenda
+## projetoVenda
 Projeto de Vendas da disciplina PAM 2 - ETEC São Roque
 
-<h1> SISTEMA DE VENDAS</h1>
+<h2> SISTEMA DE VENDAS</h2>
 
-<h3> SISTEMA PARA MINI E PEQUENOS MERCADOS  </h3>
+<h3> SISTEMA PARA MERCADOS DE PEQUENO PORTE </h3>
 <ul>
     <li> Cadastro de Cliente com CRUD; </li>
     <li> Cadastro de Fornecedores com CRUD; </li>
@@ -15,18 +15,18 @@ Projeto de Vendas da disciplina PAM 2 - ETEC São Roque
 <h3>IMAGENS DO PROJETO</h3>
 
 <h4> Menu Inicial </h4>
-<img src="img1.jpeg" alt="">
+<img src="img/img1.jpeg" alt="">
 <br />
 <h4> Cadastro de Cliente </h4>
-<img src="img2.jpeg" alt="">
+<img src="img/img2.jpeg" alt="">
 <br />
 <h4> Cadastro de Fornecedor </h4>
-<img src="img3.jpeg" alt="">
+<img src="img/img4.jpeg" alt="">
 <br />
 <h4> Cadastro de Produto </h4>
-<img src="img4.jpeg" alt="">
+<img src="img/img3.jpeg" alt="">
 <br />
 <h4> Tela de PDV em programação </h4> 
-<img src="3.png" alt="">
+<img src="img/img5.jpeg" alt="">
 <br />
 
